@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gentlemanghost2
-- 👀 I’m interested in lua and love 2d
-- 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on roblox
-- 📫 How to reach me discord at Gentlemanghost#2326
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning python, html and css
+- 💞️ I’m looking to collaborate on not really anywhere rn
+- 📫 How to reach me discord at _gentlemanghost
 
 <!---
 gentlemanghost2/gentlemanghost2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
