@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gentlemanghost2
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python, html and css
+- 🌱 I’m currently learning Python, HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on not really anywhere rn
 - 📫 How to reach me discord at _gentlemanghost
 
