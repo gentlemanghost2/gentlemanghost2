@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gentlemanghost2
-- 👀 I’m interested in Software Egineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on not really anywhere rn
 - 📫 How to reach me discord at _gentlemanghost
